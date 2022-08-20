@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project path="device/xiaomi/lavender" name="susandahal/device_xiaomi_lavender" remote="github" revision="styx" />
-  <project path="vendor/xiaomi/lavender" name="susandahal/vendor_xiaomi_lavender" remote="gitlab" revision="styx" />
-  <project path="kernel/xiaomi/lavender" name="stormbreaker-project/kernel_xiaomi_lavender" remote="github" revision="oldcam-eas" />
+  <project path="device/xiaomi/davinci" name="Ad1tyaS1ngh/device_xiaomi_davinci" remote="github" revision="S" />
+  <project path="vendor/xiaomi/davinci" name="Ad1tyaS1ngh/vendor_xiaomi_davinci" remote="github" revision="S" />
+  <project path="kernel/xiaomi/sm6150" name="Ad1tyaS1ngh/kernel_xiaomi_sm6150" remote="github" revision="S" />
+  <project path="hardware/xiaomi" name="Ad1tyaS1ngh/hardware_xiaomi" remote="github" revision="S" />
 </manifest>
