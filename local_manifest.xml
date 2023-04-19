@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project path="device/xiaomi/davinci" name="Ad1tyaS1ngh/device_xiaomi_davinci" remote="github" revision="T" />
-  <project path="vendor/xiaomi/davinci" name="Ad1tyaS1ngh/vendor_xiaomi_davinci" remote="github" revision="T" />
-  <project path="kernel/xiaomi/sm6150" name="Ad1tyaS1ngh/kernel_xiaomi_sm6150" remote="github" revision="T" />
-  <project path="hardware/xiaomi" name="Ad1tyaS1ngh/hardware_xiaomi" remote="github" revision="T" />
+  <project path="device/oneplus/cheeseburger" name="Ad1tyaS1ngh/device_oneplus_cheeseburger" remote="github" revision="T" />
+  <project path="vendor/oneplus/cheeseburger" name="Ad1tyaS1ngh/vendor_oneplus_cheeseburger" remote="github" revision="T" />
+  <project path="kernel/oneplus/msm8998" name="Ad1tyaS1ngh/kernel_oneplus_msm8998" remote="github" revision="T" />
 </manifest>
