@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project path="device/realme/porsche" name="Ad1tyaS1ngh/device_realme_porsche" remote="github" revision="T" />
-  <project path="vendor/realme/porsche" name="Ad1tyaS1ngh/vendor_realme_porsche" remote="github" revision="T" />
-  <project path="vendor/realme/porsche-firmware" name="ad1tyas1ngh/vendor_realme_porsche-firmware" remote="gitlab" revision="T" />
-  <project path="vendor/realme/porsche-opluscamera" name="ad1tyas1ngh/vendor_realme_porsche-opluscamera" remote="gitlab" revision="T" />
-  <project path="kernel/realme/sm8350" name="Ad1tyaS1ngh/kernel_realme_sm8350" remote="github" revision="T" />
+  <project path="device/realme/bitra" name="Ad1tyaS1ngh/device_realme_bitra" remote="github" revision="T" />
+  <project path="vendor/realme/bitra" name="Ad1tyaS1ngh/vendor_realme_bitra" remote="github" revision="T" />
+  <project path="hardware/oplus" name="Ad1tyaS1ngh/hardware_oplus" remote="github" revision="bitra" />
+  <project path="kernel/realme/sm8250" name="AOSPA/android_kernel_realme_sm8250" remote="github" revision="T" />
 </manifest>
