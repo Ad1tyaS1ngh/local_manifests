@@ -3,5 +3,5 @@
   <project path="device/realme/bitra" name="Ad1tyaS1ngh/device_realme_bitra" remote="github" revision="T" />
   <project path="vendor/realme/bitra" name="Ad1tyaS1ngh/vendor_realme_bitra" remote="github" revision="T" />
   <project path="hardware/oplus" name="Ad1tyaS1ngh/hardware_oplus" remote="github" revision="bitra" />
-  <project path="kernel/realme/sm8250" name="AOSPA/android_kernel_realme_sm8250" remote="github" revision="T" />
+  <project path="kernel/realme/sm8250" name="AOSPA/android_kernel_realme_sm8250" remote="github" revision="topaz" />
 </manifest>
