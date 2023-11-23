@@ -2,5 +2,6 @@
 <manifest>
   <project path="device/sony/pdx206" name="Ad1tyaS1ngh/device_sony_pdx206" remote="github" revision="U" />
   <project path="vendor/sony/pdx206" name="Ad1tyaS1ngh/vendor_sony_pdx206" remote="github" revision="U" />
+  <project path="vendor/sony/pdx206-camera" name="Ad1tyaS1ngh/vendor_sony_pdx206-camera" remote="github" revision="U" />
   <project path="kernel/sony/sm8250" name="Ad1tyaS1ngh/kernel_sony_sm8250" remote="github" revision="U" />
 </manifest>
